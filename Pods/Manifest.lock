@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - SwiftyJSON (5.0.0)
+  - TimeZoneLocate (0.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyJSON
+  - TimeZoneLocate
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftyJSON
+    - TimeZoneLocate
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TimeZoneLocate: 8536d7435a408ac14b6e0190ffcca2c2bb91aff8
+
+PODFILE CHECKSUM: 68b3b912373c4fbabd613ae3b75cd88b9cf261f4
+
+COCOAPODS: 1.7.1
